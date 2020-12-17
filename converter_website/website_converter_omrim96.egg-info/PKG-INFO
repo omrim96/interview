@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: website-converter-omrim96
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/pypa/sampleproject
+Author: Omri Marom
+Author-email: omrimarom96@gmail..com
+License: UNKNOWN
+Description: # Converter Website
+        
+        In order to run this server, execute the "converter_webserver.py" file.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
