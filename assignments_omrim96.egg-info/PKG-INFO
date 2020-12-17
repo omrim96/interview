@@ -1,14 +1,18 @@
 Metadata-Version: 2.1
-Name: website-converter-omrim96
+Name: assignments-omrim96
 Version: 0.0.1
 Summary: UNKNOWN
 Home-page: https://github.com/pypa/sampleproject
 Author: Omri Marom
 Author-email: omrimarom96@gmail..com
 License: UNKNOWN
-Description: # Converter Website
+Description: # Home Assignment 
+        In order to use the MagicList, you can execute MagicList/test_magic_list.py, or simply import this class from magic_list
+        and try it by yourself.
         
-        In order to run this server, execute the "converter_webserver.py" file.
+        In order to run API webserver, execute the "converter_webserver.py" file. In order to test it you can execute the 
+        example file
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

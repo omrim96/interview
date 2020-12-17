@@ -1,0 +1,13 @@
+README.md
+setup.py
+MagicList/__init__.py
+MagicList/magic_list.py
+MagicList/test_magic_list.py
+assignments_omrim96.egg-info/PKG-INFO
+assignments_omrim96.egg-info/SOURCES.txt
+assignments_omrim96.egg-info/dependency_links.txt
+assignments_omrim96.egg-info/top_level.txt
+converter_webserver/__init__.py
+converter_webserver/converter_webserver.py
+converter_webserver/example.py
+converter_webserver/utils.py
